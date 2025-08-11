@@ -1,0 +1,37 @@
+## Build results
+bin/
+obj/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+## Rider settings
+.idea/
+
+## Backup & cache
+*.bak
+*.log
+
+## ASP.NET temporary files
+**/App_Data/
+**/App_Start/
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.assets.json
+
+## DotCover
+*.dotCover
+
+## Others
+_ReSharper.*
+*.DotSettings.user
